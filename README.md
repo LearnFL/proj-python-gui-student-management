@@ -1,7 +1,7 @@
 # EXPLORING PyQt6 TO BUILD SIMPLE GUI
 
 ### Purpose
-To explote PyQt6 api.
+This app is basic and was built to simply explote the PyQt6 api.
 Inspired by Ardit Sulce.
 
 ### Methods
